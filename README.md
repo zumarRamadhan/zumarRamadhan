@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zumar</h1>
 <h3 align="center">I'm Front End Developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/875/0*C-cPP9D2MIyeexAT.gif">
 
 - 🔭 I’m studying at **SMK RUS**
 
