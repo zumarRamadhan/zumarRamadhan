@@ -4,8 +4,9 @@
 
 - 🎒 I’m currently learning **Javascript**
 
-- 😴 Fun fact **Sleep**
+- 📍 Country **Indonesia**
 
+<br>
 <p align="left">
 </p>
 
