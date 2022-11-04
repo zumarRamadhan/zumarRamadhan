@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I am Zumar <br> Frontend Developer</h1>
+<h1 align="center">Hello, I am Zumar <br> Frontend Developer</h1>
 
 - 🏫 I’m studying at **SMK RUS KUDUS**
 
