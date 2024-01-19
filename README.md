@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I am <br> Muhammad Zumar Ramadhan</h1>
+<marquee> <h1 align="center"> Hello, I am <br> Muhammad Zumar Ramadhan</h1> </marquee>
 
 - 🏫 **SMK RUS KUDUS**
 
