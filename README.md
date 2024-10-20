@@ -1,6 +1,6 @@
 <marquee> <h1 align="center"> Hello, I am <br> Muhammad Zumar Ramadhan</h1> </marquee>
 
-- 🏫 **SMK RUS KUDUS**
+- 🏫 **SEMARANG UNIVERSITY**
 
 - 🧑‍💻 **Frontend Developer and UI/UX Designer**
 
