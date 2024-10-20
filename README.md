@@ -1,4 +1,4 @@
-<marquee> <h1 align="center"> Hello, I am <br> Muhammad Zumar Ramadhan</h1> </marquee>
+<marquee> <h1 align="left"> Hi👋, I am <br> Muhammad Zumar Ramadhan</h1> </marquee>
 
 - 🏫 **SEMARANG UNIVERSITY**
 
