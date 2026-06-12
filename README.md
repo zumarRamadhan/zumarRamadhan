@@ -32,16 +32,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zumarramadhan&theme=transparent&no-bg=true&no-frame=true&margin-w=15" alt="Zumar's Trophies" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
