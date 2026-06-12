@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zumar Ramadhan</h1>
+<h1 align="center">Hi 👋, I'm Zumar Ramadhan</h1>
 <h3 align="center">Frontend Developer & UI/UX Designer from Indonesia</h3>
 
 <p align="center">
@@ -16,8 +16,17 @@
 
 - 🏫 Information Systems student at **Universitas Semarang**.
 - 💻 Passionate about **Frontend Development** and creating intuitive **UI/UX Designs**.
-- 🚀 Currently exploring web development, from layout design to building functional web-based management and inventory systems.
+- 🌱 Currently refining the UI/UX flow and developing **ASETIK**, a web-based inventory dashboard system for FTIK USM.
+- 🚀 Exploring digital entrepreneurship and branding through **iDash**.
 - 📍 Based in **Kudus, Central Java, Indonesia**.
+
+---
+
+### 💼 Beyond Coding
+
+I believe great UI/UX comes from a broad understanding of visual arts and human interaction. Outside of IDEs and design tools, my experiences include:
+- 📸 **Photography:** Handling projects like high school yearbooks, which sharpens my eye for composition, lighting, and visual storytelling.
+- 📱 **Social Media Management:** Crafting engaging digital content, managing campaigns, and understanding user engagement metrics.
 
 ---
 
