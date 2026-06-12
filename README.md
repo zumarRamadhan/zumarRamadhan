@@ -1,20 +1,45 @@
-<marquee> <h1 align="left"> Hi👋, I am <br> Muhammad Zumar Ramadhan</h1> </marquee>
+<h1 align="center">Hi 👋, I'm Muhammad Zumar Ramadhan</h1>
+<h3 align="center">Frontend Developer & UI/UX Designer from Indonesia</h3>
 
-- 🏫 **SEMARANG UNIVERSITY**
-
-- 🧑‍💻 **Frontend Developer and UI/UX Designer**
-
-- 📍 **Kudus, Indonesia**
-
-<br>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-zumar-ramadhan-811554254/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/zumar_ramadhan/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-<h3>Connect With Me</h3>
-<a href="https://www.instagram.com/zumar_ramadhan/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.linkedin.com/in/muhammad-zumar-ramadhan-811554254/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="html5" width="40" height="40"/></a>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"></a> <a href="https://angular.io" target="_blank" rel="noreferrer">  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/></a> <br> <br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/php/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="visual studio code" width="40" height="40"/> </a></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zumarramadhan&show_icons=true&locale=en" alt="zumarramadhan" /></p>
-<img class="gambar" align="center" alt="we bare bears" width="500" src="https://cdn.dribbble.com/users/1198834/screenshots/4555452/bears_walk_cycle.gif">
+### 👨‍💻 About Me
+
+- 🏫 Information Systems student at **Universitas Semarang**.
+- 💻 Passionate about **Frontend Development** and creating intuitive **UI/UX Designs**.
+- 🚀 Currently exploring web development, from layout design to building functional web-based management and inventory systems.
+- 📍 Based in **Kudus, Central Java, Indonesia**.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,angular,php,git,vscode,figma,ps,arduino&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zumarramadhan&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Zumar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumarramadhan&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="We Bare Bears Walk Cycle" width="350" src="https://cdn.dribbble.com/users/1198834/screenshots/4555452/bears_walk_cycle.gif">
+</p>
