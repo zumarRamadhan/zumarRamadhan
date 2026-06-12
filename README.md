@@ -14,19 +14,11 @@
 
 ### 👨‍💻 About Me
 
-- 🏫 Information Systems student at **Universitas Semarang**.
+- 🏫 Information Systems student at **Semarang University**.
 - 💻 Passionate about **Frontend Development** and creating intuitive **UI/UX Designs**.
-- 🌱 Currently refining the UI/UX flow and developing **ASETIK**, a web-based inventory dashboard system for FTIK USM.
-- 🚀 Exploring digital entrepreneurship and branding through **iDash**.
+- 🚀 Exploring digital entrepreneurship
+- 📱 Other experiences in **Social Media Management**, combining visual design sense with digital strategy.
 - 📍 Based in **Kudus, Central Java, Indonesia**.
-
----
-
-### 💼 Beyond Coding
-
-I believe great UI/UX comes from a broad understanding of visual arts and human interaction. Outside of IDEs and design tools, my experiences include:
-- 📸 **Photography:** Handling projects like high school yearbooks, which sharpens my eye for composition, lighting, and visual storytelling.
-- 📱 **Social Media Management:** Crafting engaging digital content, managing campaigns, and understanding user engagement metrics.
 
 ---
 
@@ -34,17 +26,31 @@ I believe great UI/UX comes from a broad understanding of visual arts and human 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,angular,php,git,vscode,figma,ps,arduino&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,angular,php,python,git,vscode,figma,ps,arduino&theme=dark" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zumarramadhan&theme=transparent&no-bg=true&no-frame=true&margin-w=15" alt="Zumar's Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zumarramadhan&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Zumar's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumarramadhan&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zumarramadhan&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=58A6FF&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="80%" />
 </p>
 
 <br>
